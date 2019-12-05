@@ -1,4 +1,4 @@
-## 1. 初始化项目
+## 1. 初始化项目牛牛牛牛牛
     1). 生成package.json
         yarn init -y
 
